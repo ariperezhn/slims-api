@@ -37,7 +37,7 @@ one is created for each version of SLIMS you have amongst your plugins' `apiVers
 after creating a plugin that has the following `plugin.properties` file:
 
 ```
-config-class=com.genohm.slims.custom.CustomConfiguration
+config-class=com.genohm.slims.custom.RequestFinishedConfiguration
 type=SLIMSGATE
 apiVersion=7.2.0
 ```

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE"/>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b50da4d-2c36-4cc7-a591-1b513073ef85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/build.gradle" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/howToUseThisTemplate.md" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/readme.md" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/src/main/java/com/genohm/slims/custom/RequestFinishedConfiguration.java" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/src/main/java/com/genohm/slims/custom/SpringConfig.java" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/src/main/java/com/genohm/slims/custom/beans/RequestFinishedBuilder.java" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/src/main/java/com/genohm/slims/custom/beans/SayHello.java" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/src/main/resources/plugin.properties" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/src/main/resources/slimsgate.xml" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/src/main/resources/spring/camel-context.xml" afterDir="false"/>
+      <change afterPath="$PROJECT_DIR$/plugins/slimsgate-template-new/test/main/java/com/genohm/slims/custom/beans/SayHelloTest.java" afterDir="false"/>
+      <change beforePath="$PROJECT_DIR$/cookbook/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/readme.md" afterDir="false"/>
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false"/>
+      <change beforePath="$PROJECT_DIR$/templates/slims-vaadin-template/src/main/resources/plugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/templates/slims-vaadin-template/src/main/resources/plugin.properties" afterDir="false"/>
+      <change beforePath="$PROJECT_DIR$/templates/slimsgate-template/howToUseThisTemplate.md" beforeDir="false" afterPath="$PROJECT_DIR$/templates/slimsgate-template/howToUseThisTemplate.md" afterDir="false"/>
+      <change beforePath="$PROJECT_DIR$/templates/slimsgate-template/src/main/resources/plugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/templates/slimsgate-template/src/main/resources/plugin.properties" afterDir="false"/>
+    </list>
+    <option name="SHOW_DIALOG" value="false"/>
+    <option name="HIGHLIGHT_CONFLICTS" value="true"/>
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+    <option name="LAST_RESOLUTION" value="IGNORE"/>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/templates/library-template">
+          <activation/>
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode"/>
+                <item name="slims-api" type="f1a62948:ProjectNode"/>
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode"/>
+                <item name="slims-api" type="f1a62948:ProjectNode"/>
+                <item name="cookbook" type="2d1252cf:ModuleNode"/>
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode"/>
+                <item name="slims-api" type="f1a62948:ProjectNode"/>
+                <item name="templates" type="2d1252cf:ModuleNode"/>
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode"/>
+                <item name="slims-api" type="f1a62948:ProjectNode"/>
+                <item name="templates" type="2d1252cf:ModuleNode"/>
+                <item name="library-template" type="2d1252cf:ModuleNode"/>
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode"/>
+                <item name="slims-api" type="f1a62948:ProjectNode"/>
+                <item name="templates" type="2d1252cf:ModuleNode"/>
+                <item name="library-template" type="2d1252cf:ModuleNode"/>
+                <item name="Tasks" type="e4a08cd1:TasksNode"/>
+              </path>
+            </expand>
+            <select/>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$"/>
+  </component>
+  <component name="ProjectColorInfo">{
+  "associatedIndex": 0
+}</component>
+  <component name="ProjectId" id="35cSZxlzSnQqDl6go17YLa04OUv"/>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true"/>
+    <option name="showLibraryContents" value="true"/>
+  </component>
+  <component name="PropertiesComponent">{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "7.2",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ari.perez/Documents/GitHub/slims-api/plugins",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ari.perez\Documents\GitHub\slims-api\plugins"/>
+      <recent name="C:\Users\ari.perez\Documents\GitHub\slims-api\Plugins"/>
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ari.perez\Documents\GitHub\slims-api"/>
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b50da4d-2c36-4cc7-a591-1b513073ef85" name="Changes" comment=""/>
+      <created>1763407930244</created>
+      <option name="number" value="Default"/>
+      <option name="presentableId" value="Default"/>
+      <updated>1763407930244</updated>
+    </task>
+    <servers/>
+  </component>
+</project>

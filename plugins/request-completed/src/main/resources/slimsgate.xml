@@ -1,0 +1,40 @@
+<!--
+  ~ Copyright 2021 Agilent Technologies Inc.
+  -->
+
+<slimsgate>
+	<slimsgate-flow>
+		<id>request-finished</id>
+		<name>request finished</name>
+		<usage>contentmanagement</usage>
+        <showProgress>true</showProgress>
+		<step>
+            <input>
+                <parameter>
+                    <label>SLIMS_SELECT_SAMPLES</label>
+                    <name>SLIMS_SELECT_SAMPLES</name> <!-- SLIMS internal parameter to specify that sample selection is needed for this flow -->
+                    <type>StringArray</type>
+                    <required>true</required>
+                </parameter>
+            </input>
+			<name>Say hello</name>
+			<hidden>true</hidden>
+			<process>
+				<route>finishRequest</route>
+			</process>
+		</step>
+	</slimsgate-flow>
+    <slimsgate-flow>
+        <id>request-finished-async</id>
+        <name>request finished async</name>
+        <usage>contentmanagement</usage>
+        <interruptable>true</interruptable>
+        <step>
+            <name>Say hello</name>
+            <hidden>false</hidden>
+            <process asynchronous = "true">
+                <route>finishRequest</route>
+            </process>
+        </step>
+    </slimsgate-flow>
+</slimsgate>
